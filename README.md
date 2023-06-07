@@ -1,4 +1,4 @@
-Welcome to dust-app a frontend use-case showcasing TailwindCSS & MotionFramer animations in a small React app
+Welcome to dust-app a frontend study-case showcasing TailwindCSS & MotionFramer animations in a small React app
 
 To get started, make sure you have [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com/) installed on your machine.
 
