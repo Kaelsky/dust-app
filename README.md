@@ -8,21 +8,18 @@ To get started, make sure you have [Node.js](https://nodejs.org/) and [Yarn](
 
     ```
     git clone https:/github.com/Kaelsky/dust-app.git
-
     ```
 
 2.  Navigate to the project directory:
 
     ```
     cd dust-app
-
     ```
 
 3.  Install the dependencies using Yarn:
 
     ```
     yarn install
-
     ```
 
 ### Usage
